@@ -3,5 +3,6 @@
  */
 
 public class test {
-    int a;
+    String name ;
+    int age;
 }
